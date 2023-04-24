@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class palavra {
+public static void main(String[] args) {
+String palavra;
+Scanner leia = new Scanner(System.in);
+String palavra = leia.nextLine();
+
+
+  }  
+}
